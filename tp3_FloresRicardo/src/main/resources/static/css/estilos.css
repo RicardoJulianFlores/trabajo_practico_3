@@ -1,0 +1,98 @@
+footer  {
+    background-color: #03082f;
+    color: white;
+    padding: 2% 2%;
+    letter-spacing: 1px;
+    display: flex;
+    gap: 10%;
+    font-size: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+form{
+    border-radius: 20px;
+    width: 50%;
+    padding: 30px;
+    background-color: #03082f;
+    color: white;
+    font-size: 30px;
+    text-align: start;
+}
+
+header{
+	text-align: center;
+}
+
+.navbar{
+    height: 60px;
+    background-color: #03082f;
+    display:flex;
+    color: white;
+    justify-content: right;
+}
+
+.menu ul{
+    list-style: none;
+    display: flex;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 12px;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+.menu ul li a:hover{
+    background-color:white;
+    color : #03082f;
+    transition: 0.3s;
+    border-radius: 20px;
+}
+
+.cuerpo{
+	text-align: center;
+	color:#03082f;
+}
+
+.tabla{
+	justify-content: center;
+	text-align: center;
+	display: flex;
+}
+
+.seccion{
+	background-color:#03082f;
+	color:white;
+	border-radius: 50px;
+	padding: 1%;
+	margin: 1%;
+}
+
+.seccion ul{
+	list-style: none;
+}
+
+.contenido_adicional{
+	background-color:#03082f;
+	color:white;
+	border-radius: 50px;
+	margin:1%;
+}
+.enlace_adicional{
+	text-decoration: none;
+	color: white;
+	font-size: 40px;
+}
+body{
+	text-align: center;
+}
+
+.subtitulo_1{
+	font-size: 60px;
+}
+
+.subtitulo_2{
+	font-size: 30px;
+}
